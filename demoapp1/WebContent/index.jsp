@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-welcome
+welcome to my jsp<a href="serv1">go</a>
 </body>
 </html>
